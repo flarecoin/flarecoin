@@ -1,3 +1,3 @@
-FlareCoin (FOO)
+FlareCoin (FLC)
 
 Blah, blah, blah.
